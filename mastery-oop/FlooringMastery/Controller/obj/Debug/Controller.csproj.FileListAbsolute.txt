@@ -1,0 +1,32 @@
+C:\Users\nolan\source\repos\FlooringMastery\Controller\bin\Debug\Controller.dll
+C:\Users\nolan\source\repos\FlooringMastery\Controller\bin\Debug\Controller.pdb
+C:\Users\nolan\source\repos\FlooringMastery\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\nolan\source\repos\FlooringMastery\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\nolan\source\repos\FlooringMastery\Controller\obj\Debug\Controller.dll
+C:\Users\nolan\source\repos\FlooringMastery\Controller\obj\Debug\Controller.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\bin\Debug\NUnit3.TestAdapter.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\bin\Debug\nunit.engine.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\bin\Debug\nunit.engine.api.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\bin\Debug\nunit.engine.core.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\bin\Debug\Controller.exe
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\bin\Debug\Controller.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\bin\Debug\BusinessLogicLayer.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\bin\Debug\DataAccessLayer.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\bin\Debug\Models.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\bin\Debug\View.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\bin\Debug\BusinessLogicLayer.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\bin\Debug\DataAccessLayer.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\bin\Debug\Models.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\bin\Debug\View.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\obj\Debug\Controller.exe
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\obj\Debug\Controller.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\bin\Debug\Controller.exe.manifest
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\bin\Debug\Controller.application
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\obj\Debug\Controller.TrustInfo.xml
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\obj\Debug\Controller.exe.manifest
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\obj\Debug\Controller.application
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Controller\bin\Debug\Controller.exe.config

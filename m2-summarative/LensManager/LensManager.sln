@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LensManager", "LensManager\LensManager.csproj", "{34E91659-C0AB-415E-98E4-C3152FAEF9E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LensManager.Controllers", "LensManager.Controllers\LensManager.Controllers.csproj", "{5C3C82BC-D58A-4ABD-B52A-FB4F3BD6455B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LensManager.Models", "LensManager.Models\LensManager.Models.csproj", "{AB55833D-B7B4-454D-9B11-A9169CA988A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LensManager.Data", "LensManager.Data\LensManager.Data.csproj", "{1769683E-3D14-4ED2-BAF1-3A54D3CCCC65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LensManager.View", "LensManager.View\LensManager.View.csproj", "{A8F106C1-3854-4F1F-BFC4-C087B90DEE05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34E91659-C0AB-415E-98E4-C3152FAEF9E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E91659-C0AB-415E-98E4-C3152FAEF9E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E91659-C0AB-415E-98E4-C3152FAEF9E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E91659-C0AB-415E-98E4-C3152FAEF9E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C3C82BC-D58A-4ABD-B52A-FB4F3BD6455B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C3C82BC-D58A-4ABD-B52A-FB4F3BD6455B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C3C82BC-D58A-4ABD-B52A-FB4F3BD6455B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C3C82BC-D58A-4ABD-B52A-FB4F3BD6455B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB55833D-B7B4-454D-9B11-A9169CA988A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB55833D-B7B4-454D-9B11-A9169CA988A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB55833D-B7B4-454D-9B11-A9169CA988A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB55833D-B7B4-454D-9B11-A9169CA988A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1769683E-3D14-4ED2-BAF1-3A54D3CCCC65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1769683E-3D14-4ED2-BAF1-3A54D3CCCC65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1769683E-3D14-4ED2-BAF1-3A54D3CCCC65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1769683E-3D14-4ED2-BAF1-3A54D3CCCC65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8F106C1-3854-4F1F-BFC4-C087B90DEE05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F106C1-3854-4F1F-BFC4-C087B90DEE05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F106C1-3854-4F1F-BFC4-C087B90DEE05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F106C1-3854-4F1F-BFC4-C087B90DEE05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB59770E-E81E-4F6A-A571-34572AC32EFB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,58 @@
+﻿@model ShackUp.UI.Models.ListingAddViewModel
+@{
+    ViewBag.Title = "Add";
+}
+
+<div class="row">
+    <div class="col-xs-12 col-sm-6 col-md-4">
+        <h2>Add Listing</h2>
+        @using (Html.BeginForm("Add", "Listings", FormMethod.Post, new { id = "formAddListing" }))
+        {
+            <div class="form-group">
+                <label>Nickname</label>
+                @Html.TextBoxFor(m => m.Listing.Nickname, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label>City</label>
+                @Html.TextBoxFor(m => m.Listing.City, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label>Rate</label>
+                @Html.TextBoxFor(m => m.Listing.Rate, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label>State</label>
+                @Html.DropDownListFor(m => m.Listing.StateID, Model.States, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label>Bathroom Type</label>
+                @Html.DropDownListFor(m => m.Listing.BathroomTypeID, Model.BathroomTypes, new { @class = "form-control" })
+            </div>
+            <div class="form-group">
+                <label>Square Footage</label>
+                @Html.TextBoxFor(m => m.Listing.SquareFootage, new { @class = "form-control" })
+            </div>
+            <div class="checkbox">
+                <label>
+                    @Html.CheckBoxFor(m => m.Listing.HasElectric) Electric
+                </label>
+            </div>
+            <div class="checkbox">
+                <label>
+                    @Html.CheckBoxFor(m => m.Listing.HasHeat) Heat
+                </label>
+            </div>
+            <div class="form-group">
+                <label>Image</label>
+                <input id="Listing.ImageUpload" name="ImageUpload" type="file" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label>Description</label>
+                @Html.TextAreaFor(m => m.Listing.ListingDescription, new { @class = "form-control" })
+            </div>
+            <button class="btn-primary">Save</button>
+        }
+    </div>
+</div>
+
+

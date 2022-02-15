@@ -1,0 +1,11 @@
+C:\Users\nolan\source\repos\FlooringMastery\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\nolan\source\repos\FlooringMastery\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\DataAccessLayer\bin\Debug\Models.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\DataAccessLayer\bin\Debug\Models.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

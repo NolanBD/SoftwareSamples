@@ -1,0 +1,8 @@
+C:\Users\nolan\Desktop\Software Guild\Summatives\m3-summative\LINQExercises\LINQ\bin\Debug\Customers.xml
+C:\Users\nolan\Desktop\Software Guild\Summatives\m3-summative\LINQExercises\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\nolan\Desktop\Software Guild\Summatives\m3-summative\LINQExercises\LINQ\bin\Debug\LINQ.exe
+C:\Users\nolan\Desktop\Software Guild\Summatives\m3-summative\LINQExercises\LINQ\bin\Debug\LINQ.pdb
+C:\Users\nolan\Desktop\Software Guild\Summatives\m3-summative\LINQExercises\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+C:\Users\nolan\Desktop\Software Guild\Summatives\m3-summative\LINQExercises\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\nolan\Desktop\Software Guild\Summatives\m3-summative\LINQExercises\LINQ\obj\Debug\LINQ.exe
+C:\Users\nolan\Desktop\Software Guild\Summatives\m3-summative\LINQExercises\LINQ\obj\Debug\LINQ.pdb

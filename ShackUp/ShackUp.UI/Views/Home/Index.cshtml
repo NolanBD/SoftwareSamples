@@ -1,0 +1,28 @@
+﻿@model  IEnumerable<ShackUp.Models.Queries.ListingShortItem>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row">
+    <div class="col-xs-12">
+        <h2>Welcome to Shack Up</h2>
+        <p>
+            That block of text I will not be typing.
+        </p>
+    </div>
+    <div class="row">
+        <div class="col-xs-12">
+            <h3>RECENTLY ADDED SHACKS</h3>
+            @foreach(var shack in Model)
+            {
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                    <p class="recentListing"><img src="@Url.Content("~/Images/" + shack.ImageFileName)" /></p>
+                    <p class="recentListing"><strong>@shack.City, @shack.StateID</strong></p>
+                    <p class="recentListing">@shack.Rate.ToString("c") / night</p>
+                    <p class="recentListing">@Html.ActionLink("view details", "Details", "Listings", new { id = shack.ListingID }, null)</p>
+                </div>
+            }
+        </div>
+    </div>
+</div>

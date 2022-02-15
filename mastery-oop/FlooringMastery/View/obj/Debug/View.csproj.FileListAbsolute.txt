@@ -1,0 +1,18 @@
+C:\Users\nolan\source\repos\FlooringMastery\View\bin\Debug\View.dll
+C:\Users\nolan\source\repos\FlooringMastery\View\bin\Debug\View.pdb
+C:\Users\nolan\source\repos\FlooringMastery\View\bin\Debug\Models.dll
+C:\Users\nolan\source\repos\FlooringMastery\View\bin\Debug\Models.pdb
+C:\Users\nolan\source\repos\FlooringMastery\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\nolan\source\repos\FlooringMastery\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\nolan\source\repos\FlooringMastery\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\nolan\source\repos\FlooringMastery\View\obj\Debug\View.dll
+C:\Users\nolan\source\repos\FlooringMastery\View\obj\Debug\View.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\View\bin\Debug\View.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\View\bin\Debug\View.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\View\bin\Debug\Models.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\View\bin\Debug\Models.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\View\obj\Debug\View.csproj.CopyComplete
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\View\obj\Debug\View.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\View\obj\Debug\View.pdb

@@ -1,0 +1,12 @@
+C:\Users\nolan\source\repos\FlooringMastery\Models\bin\Debug\Models.dll
+C:\Users\nolan\source\repos\FlooringMastery\Models\bin\Debug\Models.pdb
+C:\Users\nolan\source\repos\FlooringMastery\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\nolan\source\repos\FlooringMastery\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\nolan\source\repos\FlooringMastery\Models\obj\Debug\Models.dll
+C:\Users\nolan\source\repos\FlooringMastery\Models\obj\Debug\Models.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Models\bin\Debug\Models.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Models\bin\Debug\Models.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Models\obj\Debug\Models.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Models\obj\Debug\Models.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Models\obj\Debug\Models.csprojAssemblyReference.cache

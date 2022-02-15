@@ -1,0 +1,28 @@
+C:\Users\nolan\source\repos\FlooringMastery\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Users\nolan\source\repos\FlooringMastery\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\bin\Debug\nunit.engine.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\bin\Debug\nunit.engine.api.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\bin\Debug\nunit.engine.core.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\bin\Debug\Tests.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\bin\Debug\Tests.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\bin\Debug\BusinessLogicLayer.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\bin\Debug\Controller.exe
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\bin\Debug\DataAccessLayer.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\bin\Debug\Models.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\bin\Debug\nunit.framework.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\bin\Debug\View.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\bin\Debug\BusinessLogicLayer.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\bin\Debug\Controller.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\bin\Debug\Controller.exe.config
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\bin\Debug\DataAccessLayer.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\bin\Debug\Models.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\bin\Debug\nunit.framework.xml
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\bin\Debug\View.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\obj\Debug\Tests.dll
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\obj\Debug\Tests.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\Tests\bin\Debug\Tests.dll.config

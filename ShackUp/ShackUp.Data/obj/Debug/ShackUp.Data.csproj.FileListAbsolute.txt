@@ -1,0 +1,8 @@
+C:\Software Guild\Classwork\Milestone Eight\ShackUp\ShackUp.Data\bin\Debug\ShackUp.Data.dll
+C:\Software Guild\Classwork\Milestone Eight\ShackUp\ShackUp.Data\bin\Debug\ShackUp.Data.pdb
+C:\Software Guild\Classwork\Milestone Eight\ShackUp\ShackUp.Data\bin\Debug\ShackUp.Models.dll
+C:\Software Guild\Classwork\Milestone Eight\ShackUp\ShackUp.Data\bin\Debug\ShackUp.Models.pdb
+C:\Software Guild\Classwork\Milestone Eight\ShackUp\ShackUp.Data\obj\Debug\ShackUp.Data.csproj.AssemblyReference.cache
+C:\Software Guild\Classwork\Milestone Eight\ShackUp\ShackUp.Data\obj\Debug\ShackUp.Data.csproj.CoreCompileInputs.cache
+C:\Software Guild\Classwork\Milestone Eight\ShackUp\ShackUp.Data\obj\Debug\ShackUp.Data.dll
+C:\Software Guild\Classwork\Milestone Eight\ShackUp\ShackUp.Data\obj\Debug\ShackUp.Data.pdb

@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Vending Machine</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+  </head>
+  <body>
+    <div class="container">
+		<div class="text-center">
+			<h1>Vending Machine</h1>
+		</div>
+		<hr>
+		
+        <div class="row">
+             <!--container for Item Button Grid -->
+             <div class="col-md-8 text-center" id="itemButtonContainer"></div>
+            
+            <!-- right container -->
+             <div class="col-md-4" id="rightContainer"> 
+				<!-- start add money container -->
+				<div id="addMoneyContainer">
+					<div class="d-flex justify-content-center">
+						<h3>Total $ In</h3>
+					</div>
+				
+					<div class="d-flex justify-content-center">
+						<!-- display dollar amount the user has input -->
+						<div class="col-xs-2">
+							<label class="mb-3 form-control">$<span id="moneyIn">0.00</span></label>
+						</div>
+					</div>
+				
+					<!--buttons for dollars and quarters-->
+					<div class="d-flex justify-content-center">
+						<button class="mb-1 mr-3 btn btn-primary" id="addDollar">Add Dollar</button>
+						<button class="mb-1 btn btn-primary" id="addQuarter">Add Quarter</button>
+					</div>
+					<!--buttons for nickles and dimes-->
+					<div class="d-flex justify-content-center">
+						<button class="mr-3 btn btn-primary" id="addDime">Add Dime</button>
+						<button class="btn btn-primary" id="addNickle">Add Nickle</button>
+					</div>
+					<hr>
+				</div> <!--end #addMoneyContainer -->  
+				
+				<!-- start messages container -->
+				<div id="messagesContainer">
+					<div class="d-flex justify-content-center">
+						<h3>Messages</h3>
+					</div>
+					
+					<div class="d-flex justify-content-center">
+						<!-- display success, failure, and notifications to the user -->
+						<div class="col-xs-2">
+							<label class="mb-3 form-control" id="messagesOut"></label>
+						</div>
+					</div>
+					
+					<div class="d-flex justify-content-center">
+						<!-- display item selection to user -->
+						<label for="itemSelectionOut" class="mr-2 col-form-label"><h4>Item:</h4></label>
+						<div class="col-xs-2">
+							<label class="form-control" id="itemSelectionOut"></label>
+						</div>		
+					</div>
+					<!-- make purchase button -->
+					<div class="d-flex justify-content-center">
+						<button class="btn btn-primary" id="makePurchase">Make Purchase</button>
+					</div>
+					<hr>
+				</div> <!-- end #messagesContainer -->
+				
+				<!-- start change container -->
+				<div id="changeContainer">
+					<div class="d-flex justify-content-center">
+						<h3>Change</h3>
+					</div>
+					
+					<!-- display change to user -->
+					<div class="d-flex justify-content-center">
+						<div class="col-xs-2">
+							<label class="form-control" id="changeOut"></label>
+						</div>
+					</div>
+					
+					<div class="d-flex justify-content-center">	
+						<!-- make change button -->
+						<div class="d-flex justify-content-center">
+							<button class="btn btn-primary" id="makeChange">Make Change</button>
+						</div>
+					</div>
+				</div> <!-- end #changeContainer -->
+			</div> <!--end #rightContainer-->
+		</div> <!-- end page container -->
+	</div>
+	
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="js/home.js"></script>
+
+</body>
+</html>

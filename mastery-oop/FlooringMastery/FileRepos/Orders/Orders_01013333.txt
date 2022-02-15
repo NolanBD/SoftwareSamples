@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,StateAbbreviation,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Taxes,Total
+2,Ugh,OH,6.25,Tile,200,3.50,4.15,700.00,830.00,95.62,1625.62
+3,Grogh,MI,5.75,Wood,400,5.15,4.75,2060.00,1900.00,227.70,4187.70
+4,Drinkard| LLC,MI,5.75,Tile,200,3.50,4.15,700.00,830.00,87.98,1617.98

@@ -1,0 +1,14 @@
+C:\Users\nolan\source\repos\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.exe.config
+C:\Users\nolan\source\repos\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.exe
+C:\Users\nolan\source\repos\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.pdb
+C:\Users\nolan\source\repos\FlooringMastery\FlooringMastery\obj\Debug\FlooringMastery.csprojAssemblyReference.cache
+C:\Users\nolan\source\repos\FlooringMastery\FlooringMastery\obj\Debug\FlooringMastery.csproj.CoreCompileInputs.cache
+C:\Users\nolan\source\repos\FlooringMastery\FlooringMastery\obj\Debug\FlooringMastery.exe
+C:\Users\nolan\source\repos\FlooringMastery\FlooringMastery\obj\Debug\FlooringMastery.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.exe
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\FlooringMastery\obj\Debug\FlooringMastery.csprojAssemblyReference.cache
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\FlooringMastery\obj\Debug\FlooringMastery.csproj.CoreCompileInputs.cache
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\FlooringMastery\obj\Debug\FlooringMastery.exe
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\FlooringMastery\obj\Debug\FlooringMastery.pdb
+C:\Software Guild\Summatives\mastery-oop\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.exe.config

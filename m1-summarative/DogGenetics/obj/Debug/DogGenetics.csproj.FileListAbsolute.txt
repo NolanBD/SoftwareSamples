@@ -1,0 +1,7 @@
+C:\Users\nolan\Desktop\Software Guild\Summatives\m1-summarative\DogGenetics\bin\Debug\DogGenetics.exe.config
+C:\Users\nolan\Desktop\Software Guild\Summatives\m1-summarative\DogGenetics\bin\Debug\DogGenetics.exe
+C:\Users\nolan\Desktop\Software Guild\Summatives\m1-summarative\DogGenetics\bin\Debug\DogGenetics.pdb
+C:\Users\nolan\Desktop\Software Guild\Summatives\m1-summarative\DogGenetics\obj\Debug\DogGenetics.csproj.AssemblyReference.cache
+C:\Users\nolan\Desktop\Software Guild\Summatives\m1-summarative\DogGenetics\obj\Debug\DogGenetics.csproj.CoreCompileInputs.cache
+C:\Users\nolan\Desktop\Software Guild\Summatives\m1-summarative\DogGenetics\obj\Debug\DogGenetics.exe
+C:\Users\nolan\Desktop\Software Guild\Summatives\m1-summarative\DogGenetics\obj\Debug\DogGenetics.pdb

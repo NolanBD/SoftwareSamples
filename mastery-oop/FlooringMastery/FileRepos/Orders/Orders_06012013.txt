@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,StateAbbreviation,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Taxes,Total
+1,Nolan,MI,5.75,Tile,110,3.50,4.15,385.00,456.50,48.386250,889.886250
